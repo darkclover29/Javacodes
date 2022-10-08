@@ -1,2 +1,4 @@
 # Javacodes
-Some mostly used concepts that are used in JAVA
+Some basic java codes
+
+Will be adding more in the future.....
